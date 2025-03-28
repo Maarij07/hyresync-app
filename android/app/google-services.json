@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748996752150",
+    "project_id": "hyresync",
+    "storage_bucket": "hyresync.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748996752150:android:0a34ef5627a00d009fd637",
+        "android_client_info": {
+          "package_name": "com.example.hyresync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDYgymBJnQYCRm_0H4O-flEllMMnDrU14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

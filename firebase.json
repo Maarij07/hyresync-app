@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"hyresync","appId":"1:748996752150:android:0a34ef5627a00d009fd637","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"hyresync","configurations":{"android":"1:748996752150:android:0a34ef5627a00d009fd637","ios":"1:748996752150:ios:eb33e3c8f279028e9fd637"}}}}}}
